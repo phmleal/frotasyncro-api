@@ -95,7 +95,7 @@ necessidades de:
 ### 📊 Sistema de Relatórios
 
 - **Histórico de Acoplamento**: Combinações de veículos ao longo do tempo
-- **Ordens de Trabalho**: Contratos e entregas
+- **Ordens de Trabalho**: Contratos,despesas e entregas
 - **Relatório de Pneus**: Estado completo da frota de pneus
 - **Relatório de Motoristas**: Dados completos e status de documentação
 - Exportação em Excel com formatação profissional
